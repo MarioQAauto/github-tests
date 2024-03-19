@@ -8,9 +8,6 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
-// ======================================
-//TESTS FOR https://github.com/enterprise
-// ======================================
 
 public class GithubTests {
 
